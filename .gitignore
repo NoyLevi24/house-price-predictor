@@ -40,3 +40,13 @@ dist/
 # Ignore all .pkl files (models, preprocessors, etc.)
 *.pkl
 
+# Ignore notebooks
+notebooks/
+
+# Ignore processed data
+data/processed/
+
+# Ignore MLflow
+mlruns/
+mlartifacts/
+
